@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ggetachew979
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m wuzi
+- 👀 I’m interested in competetive programming, app development, and web development.
+- 🌱 I’m currently learning competetive programmig, and development.
+- 💞️ I’m looking to collaborate on competetive programming, and software development
+- 📫 How to reach me gg860979@gmail.com
 
 <!---
 ggetachew979/ggetachew979 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
