@@ -5,6 +5,6 @@
 - 📫 How to reach me gg860979@gmail.com
 
 <!---
-ggetachew979/ggetachew979 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+wuzi-mu/wuzi-mu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
